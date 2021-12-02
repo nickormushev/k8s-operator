@@ -1,0 +1,20 @@
+# permissions for end users to view contextsystemmappings.
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRole
+metadata:
+  name: contextsystemmappings-viewer-role
+rules:
+- apiGroups:
+  - beta.example.com
+  resources:
+  - contextsystemmappings
+  verbs:
+  - get
+  - list
+  - watch
+- apiGroups:
+  - beta.example.com
+  resources:
+  - contextsystemmappings/status
+  verbs:
+  - get

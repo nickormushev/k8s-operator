@@ -1,0 +1,7 @@
+mode: set
+github.com/example/memcached-operator/controllers/context_controller.go:49.99,55.2 2 0
+github.com/example/memcached-operator/controllers/context_controller.go:58.70,62.2 1 0
+github.com/example/memcached-operator/controllers/contextsystemmappings_controller.go:49.113,53.2 3 0
+github.com/example/memcached-operator/controllers/contextsystemmappings_controller.go:56.84,60.2 1 0
+github.com/example/memcached-operator/controllers/system_controller.go:49.98,55.2 2 0
+github.com/example/memcached-operator/controllers/system_controller.go:58.69,62.2 1 0

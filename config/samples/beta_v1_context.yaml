@@ -1,0 +1,9 @@
+apiVersion: beta.example.com/v1
+kind: Context
+metadata:
+  name: context-sample
+spec:
+  id: 1
+  name: bigC
+  type: "big context"
+  description: "A testing context containing all systems"

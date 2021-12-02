@@ -1,0 +1,6 @@
+apiVersion: beta.example.com/v1
+kind: System
+metadata:
+  name: system-sample
+spec:
+  # Add fields here

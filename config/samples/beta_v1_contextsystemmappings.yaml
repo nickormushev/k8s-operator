@@ -1,0 +1,9 @@
+apiVersion: beta.example.com/v1
+kind: ContextSystemMappings
+metadata:
+  name: contextsystemmappings-sample
+spec:
+  id: 1
+  context_id: 1
+  system_id: 1
+  # Add fields here
